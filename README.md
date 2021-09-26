@@ -28,4 +28,4 @@ Status of things I am doing right now:
 - [ ] Interview
 - [ ] Find a job
 
-[a relative link](杰伦.jpg)
+[a relative link to a picture my favourite singer](杰伦.jpg)

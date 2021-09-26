@@ -30,5 +30,3 @@ Status of things I am doing right now:
 - [ ] Find a job
 
 [A relative link to a picture my favourite singer](杰伦.jpg)
-
-[Go back to top](willy-liao's-user-page)
